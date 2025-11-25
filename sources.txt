@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com
+https://docs.ansible.com
+https://github.com
+https://community.infoblox.com
+https://endoflife.date
+https://community.e.foundation/
+https://forum.ansible.com
+https://stackoverflow.com
+https://reddit.com
